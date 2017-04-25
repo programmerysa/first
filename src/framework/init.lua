@@ -167,7 +167,7 @@ end
 
 if DEBUG_MEM then
     local sharedTextureCache = cc.Director:getInstance():getTextureCache()
-    --[[--
+    --[[-- test
     @ignore
     ]]
     local function showMemoryUsage()
